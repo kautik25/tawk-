@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "fullName": "test user",
+      "email": "test1@gmail.com",
+      "password": "1234",
+      "id": "1"
+    },
+    {
+      "fullName": "test Data",
+      "email": "test@gmail.com",
+      "password": "1234",
+      "id": "2"
+    },
+    {
+      "id": "d676",
+      "fullName": "test",
+      "email": "test1@gmail.co",
+      "password": "1234"
+    },
+    {
+      "id": "4e5f",
+      "fullName": "test",
+      "email": "abc@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "3aef",
+      "fullName": "kj",
+      "email": "kj@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "213c",
+      "fullName": "reyna",
+      "email": "reyna@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "290d",
+      "fullName": "jett",
+      "email": "jett@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
